@@ -10,6 +10,8 @@
 | 1.20.1  | [Fabric](https://fabricmc.net/) | `0.16.9` |
 <!--end:mcman-server-->
 
+**Install the modpack** (open file with Modrinth): [Modpack](dominocraft.mrpack)
+
 ## Mods
 
 
