@@ -1,5 +1,14 @@
 # Dominocraft
 
+## Como jogar:
+
+1. Instale o aplicativo do Modrinth: [Modrinth App](https://modrinth.com/app)
+2. Baixe o arquivo `dominocraft.mrpack`: [Modpack](dominocraft.mrpack)
+3. No app do Modrinth, abra o arquivo. Isso vai criar uma nova instância com todos os mods.
+4. Faça login na sua conta Minecraft e clique em jogar!
+
+## Version
+
 [![mcman badge](https://img.shields.io/badge/uses-mcman-purple?logo=github)](https://github.com/ParadigmMC/mcman)
 
 <!-- run 'mcman md' to update! -->
@@ -10,7 +19,7 @@
 | 1.20.1  | [Fabric](https://fabricmc.net/) | `0.16.9` |
 <!--end:mcman-server-->
 
-**Install the modpack** (open file with Modrinth): [Modpack](dominocraft.mrpack)
+
 
 ## Mods
 
